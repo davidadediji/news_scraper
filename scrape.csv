@@ -1,0 +1,40 @@
+headline,author,timestamp,content
+87 percent of websites are tracking you. This new tool will let you run a creepiness check.,Geoffrey A. Fowler,"September 25, 2020 at 3:08 p.m. EDT","
+
+How bad has privacy become on the World Wide Web? Really bad, a new audit shows.
+
+At least 87 percent of the world’s most-popular Web domains engage in some form of digital tracking without you ever signing in, according to investigative journalism nonprofit the Markup. Many, it found, even covertly record the way you move your mouse or type. This is the hidden tech that lets companies learn who you are, what you like and even the secrets you look at online so they can tailor what you see, make ads follow you around — or even sell your information to others.
+
+The good news: You can run a privacy check on any site yourself by using the free tool made for the audit, called Blacklight. Think of it, in the Markup’s words, as a “meat thermometer that you can stick into any website and get an instant reading on its level of creepiness.” 
+
+Blacklight was created by Surya Mattu, who wanted not just to stop website snooping, but a tool to see exactly what was going on when you visit sites with the default Google Chrome, the popular browser I once dubbed “spy software.”
+
+Earlier this month, engineer and journalist Mattu ran Blacklight on a list of the 100,000 most-popular domains on the Web. Some of those addresses didn’t have a website on them or wouldn’t load. But of the more than 80,000 that he could scan, a grim picture emerged.
+
+Worse, Mattu’s numbers are likely conservative. On sites that ask you to accept cookies before they’re loaded, particularly common in Europe, Blacklight doesn’t click “accept” — so those sites registered as less creepy.
+
+“I think this is just a reflection of how business operates when it goes unchecked,” Mattu said. “I don’t think there is some super-evil person sitting somewhere trying to collect everyone’s information. There is economic incentive for having this data, and over the last 15 years that incentive has only increased.”
+
+Blacklight isn’t the perfect or only measure of privacy — it’s a cat-and-mouse game with the companies that develop tracking tech. But I hope the Markup updates its audit every year, so we can track how the Web changes as more people become concerned about privacy, and new privacy laws attempt to outlaw some of the snooping.
+
+What’s the point for non-techies? Use Blacklight quickly to see whether you want to trust a site — or evaluate the claims of a CEO who touts “privacy is a human right.” You can download your results and share anything shocking with me or with the smart team at the Markup.
+
+Here’s what’s “normal,” for comparison: The median number of third-party cookies on websites is three. The median number of ad trackers is seven.
+
+What you find might surprise you. As of Thursday, pet food-maker Purina notched almost every possible kind of tracking Blacklight detects, which Purina can use to learn about the demographics and interests of people, their brand loyalty and even to understand how they use their website. It had 14 ad trackers, 28 third-party cookies, fingerprinting, and monitoring of keystrokes and mouse clicks. (Tell Fluffy to be careful out there.)
+
+Sensitive websites track people, too. Planned Parenthood had 42 third-party cookies, according to Blacklight.
+
+Joe Biden’s website as of Thursday used fewer third-party cookies, 10, than President Trump’s website, 18, according to Blacklight.
+
+Microsoft had 43 third-party cookies. Apple had zero — in fact, it uses no tracking tech at all, according to Blacklight.
+
+The Washington Post’s site had six third-party cookies and allows Google Analytics to track you but doesn’t have Facebook trackers, according to Blacklight. The New York Times had 12 trackers, the Wall Street Journal had 44 and The New Yorker had 152.
+
+Just remember: You don’t have to give up all hope of preserving your privacy. There are steps you can take to protect your privacy on the Web.
+
+For most people, I recommend making one simple change: switch browsers to one that includes automatic protection. I like Mozilla’s Firefox, but Apple’s Safari and the new version of Microsoft Edge also provide some protection, as do the privacy-focused DuckDuckGo and Brave.
+
+But if you just can’t quit Chrome, or you’re forced to use it for work, there are ad-blocking and tracker-blocking plugins that can defang Chrome, including Privacy Badger and Ghostery.
+
+And if you live in the state of California, there’s also a law called the California Consumer Privacy Act that gives you the ability to tell any business to stop selling your data. Here’s my citizen’s guide for how to use it."

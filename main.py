@@ -1,7 +1,8 @@
 from bs4 import BeautifulSoup
-import pandas as pd
+# import pandas as pd
 import requests
 import sys
+import csv
 
 
 def get_url(url)->str:
@@ -37,18 +38,20 @@ def convert_csv():
     
     headline = soup.find(attrs={"data-qa":"headline-text"}).get_text()
     author = soup.find(attrs={"data-qa":"author-name"}).get_text()
-    timestamp = soup.find(attrs={"data-qa":"timestamp"}).get_text()
+    timestamp = soup.find(attrs={"data-testid" or "data-qa":"timestamp"}).get_text()
 
+    
     content_tag = soup.find_all(attrs={"data-el":"text"})
 
     content = ""
     for part in content_tag:
         content += "\n\n" + part.get_text()
-        return 1
+    data=[headline, author, timestamp, content]
+    
+    with open('scrape.csv', 'w',  encoding='UTF8') as out_file:
+        writer = csv.writer(out_file)
+        writer.writerow(['headline', 'author', 'timestamp', 'content'])
+        writer.writerow(data)
 
+convert_csv()
 
-
-# move to heaven
-# tale of the nine-tailed
-# 18  again
-# crash landing on you
