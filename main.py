@@ -48,7 +48,7 @@ def convert_csv():
         content += "\n\n" + part.get_text()
     data=[headline, author, timestamp, content]
     
-    with open('scrape.csv', 'w',  encoding='UTF8') as out_file:
+    with open('scrape.csv', 'a',  encoding='UTF8') as out_file:
         writer = csv.writer(out_file)
         writer.writerow(['headline', 'author', 'timestamp', 'content'])
         writer.writerow(data)

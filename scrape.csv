@@ -1,40 +1,48 @@
 headline,author,timestamp,content
-87 percent of websites are tracking you. This new tool will let you run a creepiness check.,Geoffrey A. Fowler,"September 25, 2020 at 3:08 p.m. EDT","
+Mars rover digs up intriguing clues in the hunt for life beyond Earth,Joel Achenbach,"November 23, 2022 at 2:00 p.m. EST","
 
-How bad has privacy become on the World Wide Web? Really bad, a new audit shows.
+On the floor of a shallow crater on Mars, the NASA rover Perseverance has hit what scientists are hoping is pay dirt. Martian rocks excavated by the rover show signs of a watery past and are loaded with the kind of organic molecules that are the foundation for life as we know it.
 
-At least 87 percent of the world’s most-popular Web domains engage in some form of digital tracking without you ever signing in, according to investigative journalism nonprofit the Markup. Many, it found, even covertly record the way you move your mouse or type. This is the hidden tech that lets companies learn who you are, what you like and even the secrets you look at online so they can tailor what you see, make ads follow you around — or even sell your information to others.
+Scientists collaborating on the mission also say the rock samples, which the rover has cached in tubes for a future return to Earth, have the right chemical recipe to preserve evidence of ancient Martian life, if it ever existed.
 
-The good news: You can run a privacy check on any site yourself by using the free tool made for the audit, called Blacklight. Think of it, in the Markup’s words, as a “meat thermometer that you can stick into any website and get an instant reading on its level of creepiness.” 
+The new Perseverance research is detailed in three extensive studies published Wednesday, one in the journal Science and two in the journal Science Advances. The journal reports are highly technical and devoid of hype — daring to be dull as dirt — but the scientists involved translate them into a more exciting tale.
 
-Blacklight was created by Surya Mattu, who wanted not just to stop website snooping, but a tool to see exactly what was going on when you visit sites with the default Google Chrome, the popular browser I once dubbed “spy software.”
+“It’s amazing. In pretty much every rock we’re finding organics,” said Abigail Allwood, a geologist at the NASA Jet Propulsion Laboratory in Pasadena, which operates the rover and the broader Mars Sample Return mission.
 
-Earlier this month, engineer and journalist Mattu ran Blacklight on a list of the 100,000 most-popular domains on the Web. Some of those addresses didn’t have a website on them or wouldn’t load. But of the more than 80,000 that he could scan, a grim picture emerged.
+One of the studies concluded that the rocks in the crater experienced three different events in which they were exposed to water.
 
-Worse, Mattu’s numbers are likely conservative. On sites that ask you to accept cookies before they’re loaded, particularly common in Europe, Blacklight doesn’t click “accept” — so those sites registered as less creepy.
+“Crucially, conditions in the rock during each time that water migrated through it could have supported small communities of microorganisms,” lead author Michael Tice, a geologist at Texas A&M University, said in an email. In a subsequent interview, he added, “We’re not going to know until we get the samples back to Earth.”
 
-“I think this is just a reflection of how business operates when it goes unchecked,” Mattu said. “I don’t think there is some super-evil person sitting somewhere trying to collect everyone’s information. There is economic incentive for having this data, and over the last 15 years that incentive has only increased.”
+Perseverance made a bulls-eye landing in Jezero Crater on Feb. 18, 2021, and has been roaming it since, caching rock samples along the way for later scrutiny back on Earth. This is an ambitious, multiphase mission that will require NASA and its partner, the European Space Agency, to send another vehicle to the surface of Mars with the capability of launching samples into orbit. A spacecraft would then carry those samples back to Earth for laboratory research. The precise timetable is still to be determined, but NASA is hoping to have the samples on home turf in the early 2030s.
 
-Blacklight isn’t the perfect or only measure of privacy — it’s a cat-and-mouse game with the companies that develop tracking tech. But I hope the Markup updates its audit every year, so we can track how the Web changes as more people become concerned about privacy, and new privacy laws attempt to outlaw some of the snooping.
+This study of Mars is part of the efflorescence of the young field of astrobiology, which includes the search for potentially habitable worlds and the first example of extraterrestrial life. Despite the efforts of generations of scientists, and notwithstanding the claims of UFO buffs, the discovery of life beyond Earth remains aspirational.
 
-What’s the point for non-techies? Use Blacklight quickly to see whether you want to trust a site — or evaluate the claims of a CEO who touts “privacy is a human right.” You can download your results and share anything shocking with me or with the smart team at the Markup.
+Even finding organics — life-friendly molecules with combinations of carbon, hydrogen and oxygen — is a far cry from discovering life or even proof of its presence in the past. Such molecules can be either biological or nonbiological in origin.
 
-Here’s what’s “normal,” for comparison: The median number of third-party cookies on websites is three. The median number of ad trackers is seven.
+Still, Mars is front and center in NASA’s search because it has many favorable traits. Mars probably was far more Earthlike about 3 billion years ago, with warmer and wetter conditions. Life may have once existed on Earth and Mars simultaneously, and it is possible that it originated on Mars and spread to Earth via meteorites. And though the surface now is an arid wasteland, the planet could have liquid water in significant quantities beneath the surface, and possibly “cryptic” life.
 
-What you find might surprise you. As of Thursday, pet food-maker Purina notched almost every possible kind of tracking Blacklight detects, which Purina can use to learn about the demographics and interests of people, their brand loyalty and even to understand how they use their website. It had 14 ad trackers, 28 third-party cookies, fingerprinting, and monitoring of keystrokes and mouse clicks. (Tell Fluffy to be careful out there.)
+Although the Perseverance rover does not have instruments to chemically detect living organisms if they exist today, its instruments give scientists the ability to study the Martian surface at a level of detail never before possible.
 
-Sensitive websites track people, too. Planned Parenthood had 42 third-party cookies, according to Blacklight.
+One of the new papers more closely examining Mars’s chemistry has delivered a surprise for geologists. They had assumed that they were going to dig up a bunch of sedimentary rocks. Instead the rocks are volcanic.
 
-Joe Biden’s website as of Thursday used fewer third-party cookies, 10, than President Trump’s website, 18, according to Blacklight.
+Jezero Crater formed in an impact event — a rock slamming into Mars — at least 3.5 billion years ago. The shallow crater clearly had water in it long ago. This could be determined from orbital images showing the remnants of a delta where a river flowed into the lake. Planetary geologists had assumed the floor of the crater was covered in sedimentary rock, formed from dirt and debris that slowly accumulated at the bottom of the lake.
 
-Microsoft had 43 third-party cookies. Apple had zero — in fact, it uses no tracking tech at all, according to Blacklight.
+If such sedimentary rock was ever there, it’s gone now. It may have eroded away, Tice said. The lack of sedimentary rock could mean that the lake didn’t last very long, which would be disappointing for the astrobiologists. Life as we know it needs water, and it takes time for more-complex life-forms to evolve. If the lake didn’t linger, life might have struggled to take root.
 
-The Washington Post’s site had six third-party cookies and allows Google Analytics to track you but doesn’t have Facebook trackers, according to Blacklight. The New York Times had 12 trackers, the Wall Street Journal had 44 and The New Yorker had 152.
+The volcanic rocks are not a disappointment, though, because they preserve loads of information about the Martian past, including the presence of organic molecules, scientists said. The presence of organic material on Mars had been confirmed in previous missions, but their precise nature and chemistry can’t be discerned through this kind of long-distance research and will require laboratory scrutiny on Earth, according to Bethany Ehlmann, a planetary scientist at Caltech and co-author of two of the new papers.
 
-Just remember: You don’t have to give up all hope of preserving your privacy. There are steps you can take to protect your privacy on the Web.
+“Are they merely organics that kind of washed into the system — maybe from meteoritic material that was just part of the water? That would be the least exciting. Or are they little niches of microbial life living in the cavities of these rocks? That would be the most exciting,” Ehlmann said.
 
-For most people, I recommend making one simple change: switch browsers to one that includes automatic protection. I like Mozilla’s Firefox, but Apple’s Safari and the new version of Microsoft Edge also provide some protection, as do the privacy-focused DuckDuckGo and Brave.
+She added that the rover “is collecting an awesome set of samples to reveal Mars’s environmental history in all of its forms — the volcanic history, the history of water, the relationship of organics to those water-rich environments.”
 
-But if you just can’t quit Chrome, or you’re forced to use it for work, there are ad-blocking and tracker-blocking plugins that can defang Chrome, including Privacy Badger and Ghostery.
+All of this is an attempt to solve the fundamental mystery of Mars: What went wrong? How and when and why did this planet that apparently was congenial to life turn into such a harsh place? The Red Planet may not be a dead planet — the coroner’s report is incomplete — but it certainly resembles one.
 
-And if you live in the state of California, there’s also a law called the California Consumer Privacy Act that gives you the ability to tell any business to stop selling your data. Here’s my citizen’s guide for how to use it."
+Scientists point to something Mars lacks today: a global magnetic field like Earth’s. Such a field protects our atmosphere from the corrosive effects of the solar wind — high-energy particles steadily streaming from the sun that can strip away lighter molecules. Mars also lacks plate tectonics, the geological process that on Earth recycles the crust and continues to spew water and nutrient-rich lavas through active volcanoes.
+
+Somewhere along the way, Mars’s magnetic field died, and then it became a different kind of planet. It lost almost all of its atmosphere. It became a frigid desert world. How quickly that happened is unknown, but that’s something that might be revealed by the volcanic rocks in the crater.
+
+Magma contains some amount of iron, which is sensitive to a planet’s magnetism. As lava cools, it crystallizes into igneous rock, freezing electrons within iron-bearing minerals into patterns that could reveal a magnetic field’s traits, such as its orientation.
+
+Benjamin Weiss, a planetary scientist at MIT and co-author of two of the papers, said in an email, “On balance, we are actually super lucky that there are igneous rocks in the crater, and that we happened to land right on them, since they are ideal for determining ages and studying the past history of Mars’ magnetic field.”
+
+Once the mission can send its precious rock collection back to Earth, scientists may finally be able to tell if life ever found a foothold on Mars — which would raise new questions about whether, despite the dramatic transformation of the planet, life somehow managed to persevere."
